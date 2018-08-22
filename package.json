@@ -1,5 +1,5 @@
 {
-  "name": "css-loader",
+  "name": "css-loader-with-module-mapping",
   "version": "0.28.11",
   "author": "Tobias Koppers @sokra",
   "license": "MIT",
